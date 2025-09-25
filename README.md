@@ -30,10 +30,7 @@ I chose **college information** as the use case because it's one of the most **f
 - **pyttsx3** – Text-to-speech
 - **Custom Rule-Based Logic** – No external AI models
 
-## 📽️ Demo
+## 🎬 Demo
 
-Watch the chatbot in action:
-
-[▶️ Click to view demo](https://github.com/Bhoomika08-MAY/Source-hub-IT-3/blob/main/assets/demo.mp4)
-
+📥 [Click to watch the demo](https://raw.githubusercontent.com/Bhoomika08-MAY/Source-hub-IT-3/main/assets/demo.mp4)
 
